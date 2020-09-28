@@ -1,0 +1,5 @@
+ActionController, EventController, ResultController - контроллеры кубов во втором проекте.
+
+LoadBanners - скрипт управления и загрузки баннеров для внутренней рекламной сетки.
+
+MyEventAgregator - простенький агрегатор событий.
